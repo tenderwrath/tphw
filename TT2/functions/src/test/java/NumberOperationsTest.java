@@ -45,7 +45,7 @@ public class NumberOperationsTest {
         assertEquals(expectedMin, actualMin);
     }
 
-    // @Test
+    // @Test  // todo: тест на время
     // public void testTime() {
     //     String filename = "test_numbers.txt";
     //     int expectedMin = 1; 
@@ -53,7 +53,7 @@ public class NumberOperationsTest {
     //     assertEquals(expectedMin, actualMin);
     // }
 
-    @Test
+    @Test // дополнительный тест на то, что правильно функции работают с файлами с одинаковыми числами
     public void testEqual() {
         String filename = "test10_allEqual.txt";
         int expectedMin = 2; 
