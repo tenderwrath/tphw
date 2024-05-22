@@ -41,6 +41,9 @@ NB! Функцию корзины я также называю тележкой.
 
 ## Диаграмма состояний
 
+![image](https://github.com/tenderwrath/tphw/assets/107726368/9acadccd-033e-44f7-aaea-006494dc54ad)
+
+
 ## Диаграмма деятельности
 
 ![image](https://github.com/tenderwrath/tphw/assets/107726368/6a1c2e88-a877-423c-8ff5-17ecf0d6dc7a)
