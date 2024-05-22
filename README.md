@@ -46,3 +46,5 @@ chmod +x TT1.sh
 
 ## Диаграмма классов
 
+![image](https://github.com/tenderwrath/tphw/assets/107726368/2c50a354-c5a1-417e-8d40-d462f1ab2a10)
+
