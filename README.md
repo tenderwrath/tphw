@@ -29,6 +29,7 @@ chmod +x TT1.sh
 
 ## Диаграмма вариантов использования
 
+![image](https://github.com/tenderwrath/tphw/assets/107726368/512a2faf-2691-47cb-8348-fd6713f8d2eb)
 
 
 ## Диаграмма последовательности
